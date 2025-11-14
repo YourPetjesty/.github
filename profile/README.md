@@ -1,6 +1,6 @@
 # YourPetjesty (英优派)
 
-[中文版](./README_CN.md) | English
+[Chinese](./README_CN.md) | English
 
 ## About Us
 

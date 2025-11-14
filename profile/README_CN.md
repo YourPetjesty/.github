@@ -1,6 +1,6 @@
 # 英优派 (YourPetjesty)
 
-[English](./README.md) | 中文版
+[英文版](./README.md) | 中文版
 
 ## 关于我们
 
